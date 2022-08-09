@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewModelNavigation</string>
+    <string name="enter_value">Enter value</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="hello_world">Hello world</string>
+    <string name="message_can_not_be_empty">Message can not be empty</string>
+</resources>
